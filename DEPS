@@ -414,7 +414,7 @@ deps = {
    Var('ocmock_git') + '@' +  Var('ocmock_rev'),
 
   'src/third_party/libjpeg-turbo':
-   Var('fuchsia_git') + '/third_party/libjpeg-turbo' + '@' + '0fb821f3b2e570b2783a94ccd9a2fb1f4916ae9f',
+   Var('fuchsia_git') + '/third_party/libjpeg-turbo' + '@' + '9fc018fd1aa9598f21c9bc4d8d53c0cef007bdcf',
 
   'src/third_party/libpng':
    Var('flutter_git') + '/third_party/libpng' + '@' + '134cf139cb24d802ee6ad5fc51bccff3221c2b49',
